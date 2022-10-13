@@ -1,0 +1,17 @@
+{
+    "name": "app/cowsay",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marie5060",
+            "email": "marie5060@hotmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
